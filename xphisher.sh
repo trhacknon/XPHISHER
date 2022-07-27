@@ -64,11 +64,11 @@ banner() {
                 ${BLUE}╋┏┛┗┓┃┏━━┫┏┓┣┫━━┫┏┓┃┃━┫┏┛
                 ${BLUE}┏┛┏┓┗┫┃╋╋┃┃┃┃┣━━┃┃┃┃┃━┫┃
                 ${BLUE}┗━┛┗━┻┛╋╋┗┛┗┻┻━━┻┛┗┻━━┻┛             
-                ${RED} X PH4N70M (X PHANTOM)
+                ${RED} Mr Trhacknon (mod by)
                                                   
 		${CYAN}Version : 2.2 
 		
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by X PHANTOM (X PH4N70M)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Modded by Mr Trhacknon (Mr Trhacknon)${WHITE}
 	EOF
 }
 
@@ -77,7 +77,7 @@ banner_small() {
 	cat <<- EOF
                 ${BLUE} ▀▄▀   █▀█ █░█ ▄▀█ █▄░█ ▀█▀ █▀█ █▀▄▀█
                 ${BLUE} █░█   █▀▀ █▀█ █▀█ █░▀█ ░█░ █▄█ █░▀░█
-		${RED}  X PHANTOM [PH4N70M]
+		${RED}  Mr Trhacknon [Trhacknon]
 	EOF
 }
 
@@ -178,12 +178,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}X PHANTOM ${RED}[ ${ORANGE}X PH4N70M ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/hackerxphantom
+		${GREEN}Author   ${RED}:  ${ORANGE}X PHANTOM ${RED}[ ${ORANGE}Mr Trhacknon ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/trhacknon
 		${GREEN}Join us  ${RED}:  ${CYAN}https://bit.ly/3PV3S3r
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
-		${REDBG}${WHITE} Thanks : X PHANTOM,X PH4N70M ${RESETBG}
+		${REDBG}${WHITE} Thanks : Mr Trhacknon,Mr Trhacknon ${RESETBG}
 								  
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
