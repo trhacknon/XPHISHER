@@ -19,7 +19,7 @@ Tutorial:-
 ## Installation
 Just, Clone this repository -
 ```bash
-git clone https://github.com/XPH4N70M/XPHISHER.git
+git clone https://github.com/trhacknon/XPHISHER.git
 ```
 Change to cloned directory and run xphisher.sh -
 ```bash
@@ -34,10 +34,10 @@ On first launch, It'll install the dependencies and that's it. xphisher is insta
 
 ### Run on Docker
 ```bash
-docker pull XPH4N70M/XPHISHER 
+docker pull trhacknon/XPHISHER 
 ```
 ```bash
-docker run --rm -it XPH4N70M/XPHISHER 
+docker run --rm -it trhacknon/XPHISHER 
 ```
 ### Dependencies
 xphisher requires following programs to run properly -
